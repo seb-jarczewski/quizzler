@@ -14,4 +14,5 @@ Answer ten True/False questions from the Science & Nature category.
 
 ## License
 
+One of the projects from Angela Yu Python course at Udemy.
 This project is open source and available under the MIT License.
